@@ -11,7 +11,6 @@
 <li>
 <b>Name:</b> Kira</li>
 <li>
-<b>
 </li>
 <li>
 <b>Loves:</b> you! and donuts and games maybe -///-
