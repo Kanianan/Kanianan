@@ -18,11 +18,12 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
+<b>Working @:</b> Intave Anticheat | snens.team
 </li>
-<br>Working: Youtube, Editing, & and more
+<br>
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu</b></p>
 </div>
