@@ -1,1 +1,1 @@
-[![Badge](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)
+[![Top Stack](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)
