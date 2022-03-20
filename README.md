@@ -1,2 +1,1 @@
-# ing
-ing
+https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif
