@@ -17,7 +17,7 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff, Graphic Design
 </li>
 <li>
 <b>Working on:</b> Youtube, Editing & more 
