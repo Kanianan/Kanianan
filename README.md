@@ -20,9 +20,6 @@
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design
 </li>
-<li>
-<b>Working @:</b> Intave Anticheat | snens.team
-</li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu</b></p>
