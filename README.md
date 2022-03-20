@@ -22,7 +22,7 @@
 </li>
 <li>
 </li>
-<br>
+<br>Working: Youtube, Editing, & and more
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu</b></p>
 </div>
