@@ -20,6 +20,8 @@
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design
 </li>
+<li>
+</li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu</b></p>
