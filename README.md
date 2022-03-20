@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
-<b>Working on :</b> Youtube, Editing & more >__<
+<b>Working on:</b> Youtube, Editing & more 
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
